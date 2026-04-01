@@ -11,7 +11,6 @@
 ## Contents
 
 - [Chains](#chains)
-- [Exchanges & DEXs](#exchanges--dexs)
 - [Identity & Trust](#identity--trust)
 - [Protocols](#protocols)
 - [Wallets & Security](#wallets--security)
@@ -35,20 +34,6 @@ Ranked by agent-friendliness: API quality, gas costs, ERC-8004 deployment, RPC r
 | **Arbitrum** | ⭐⭐⭐ | ✅ Deployed | <$0.10 | Strong DeFi ecosystem |
 | **Solana** | ⭐⭐ | ✅ Deployed | <$0.01 | SDK complexity, multi-signer issues, RPC connectivity varies |
 | **Avalanche** | ⭐⭐ | 🔜 Apr 7 | <$0.10 | ERC-8004 AMA announced |
-
-## Exchanges & DEXs
-
-Ranked by agent-friendliness: API quality, programmatic access, agent wallet support, min order sizes, documentation.
-
-| Exchange | Type | Score | Agent API | Notes |
-|----------|------|-------|-----------|-------|
-| **Hyperliquid** | DEX (Perps) | ⭐⭐⭐⭐ | REST + WS | On-chain verifiable, gateway-friendly, min order sizes can be restrictive for small accounts |
-| **1inch** | DEX Aggregator | ⭐⭐⭐⭐ | MCP Server ✅ | First major DEX with production MCP for agent swap execution |
-| **Jupiter** | DEX (Solana) | ⭐⭐⭐ | REST | Solana's top aggregator, good API |
-| **dYdX** | DEX (Perps) | ⭐⭐⭐ | REST + WS | V4 on Cosmos, good for programmatic trading |
-| **GMX** | DEX (Perps) | ⭐⭐⭐ | Smart Contracts | Arbitrum/Avalanche, no direct API |
-| **Binance** | CEX | ⭐⭐ | REST + WS | Best API docs, but KYC = agent-hostile |
-| **Coinbase** | CEX | ⭐⭐ | REST | ERC-8004 co-author, but KYC required |
 
 ## Identity & Trust
 
